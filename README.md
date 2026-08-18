@@ -62,4 +62,4 @@ Git, GitHub, GitHub Actions, Linux, Postman
 
 ---
 
-⭐️ From [kyubi-321](https://github.com/ankit-badhani)
+⭐️ From [ankit-badhani](https://github.com/ankit-badhani)
